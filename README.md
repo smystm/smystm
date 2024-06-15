@@ -33,16 +33,39 @@
   
   <!-- Begin::List -->
   - 🔭 I’m currently working on HTML & CSS & Bootstrap & JavaScript.
-  - ⚡ I am familiar with the Vue Js language, but I have not done a professional project with it.
+  - ⚡ I am familiar with the Vue Js & Python, but I have not done a professional project with it.
   - ✨ also I can working with Wordpress & Elementor ... But I prefer programming to Wordpress.
   - 🔥 From my experience ,it can be mentioned that I have taught front-end(HTML,CSS,Js) in Ameed Institute
   - 🌱 I’m currently learning React JS
   <!-- End::List -->
-  
 <!-- End::About Me -->
+<!-- Begin::Skills -->
+  <!-- Begin::Title -->
+  ## <img src="https://github.com/smystm/smystm/blob/main/skills.png?raw=true" width="28px" align="center"/> Tech Stack
+  <!-- End::Title -->
+  <!-- Begin::Skills Gif -->
+   ***🐦 My Skills :***
+   <p align="center">
+    <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/vs.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/pycharm.gif?raw=true" width="50px" align="center"/>
+   </p>
+  <!-- End::Skills Gif -->
+<!-- End::Skills -->
 
+<!-- Begin::Github stats -->
+<!-- Begin::Title -->
+## 🛠️ Github Stats:
+<!-- End::Title -->
 
-
+<!-- End::Github stats -->
 
 
 <!--
