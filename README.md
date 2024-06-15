@@ -64,7 +64,11 @@
 <!-- Begin::Title -->
 ## 🛠️ Github Stats:
 <!-- End::Title -->
-
+<!-- Begin::Gif -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smystm&show_icons=true&theme=highcontrast"/>
+</p>
+<!-- End::Gif -->
 <!-- End::Github stats -->
 
 
