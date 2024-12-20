@@ -32,7 +32,7 @@
   <!-- End::Desc -->
   
   <!-- Begin::List -->
-  - 🔭 I’m currently working on HTML & CSS & Bootstrap & JavaScript.
+  - 🔭 I’m currently working on HTML & CSS & Bootstrap & Tailwind & JavaScript.
   - ⚡ I am familiar with the Vue Js & Python, but I have not done a professional project with it.
   - ✨ also I can working with Wordpress & Elementor ... But I prefer programming to Wordpress.
   - 🔥 From my experience ,it can be mentioned that I have taught front-end(HTML,CSS,Js) in Ameed Institute
