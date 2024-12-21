@@ -49,20 +49,20 @@
     <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/vs.gif?raw=true" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/pycharm.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="50px" align="center"/>
    </p>
    
    ***🐦 Learning Skills :***
    <p align="center">
     <img src="https://github.com/smystm/smystm/blob/main/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50px" align="center"/>
     <img src="https://github.com/smystm/smystm/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px" align="center"/>
+    <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
    </p>
   <!-- End::Skills Gif -->
 <!-- End::Skills -->
