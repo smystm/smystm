@@ -54,33 +54,31 @@
   <!-- Begin::Skills Gif -->
    ***🚀 Core Skills :***
 <p align="center">
-  <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/typescript-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/react.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/nextjs-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/typescript-icon.png" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/react.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/nextjs-icon.png" width="65px" align="center"/>
 </p>
 
 ***⚡ Proficient Tools :***
 <p align="center">
-  <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/vercel-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/wordpress-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/elementor-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/vercel-icon.png" width="65px" align="center"/>
 </p>
 
 ***🌱 Familiar With :***
 <p align="center">
-  <img src="https://github.com/smystm/smystm/blob/main/nodejs-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/postgresql-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/supabase-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/docker-icon.png" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="50px" align="center"/>
-  <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/nodejs-icon.gif" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/postgresql-icon.png" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/supabase-icon.png" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/docker-icon.png" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="65px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="65px" align="center"/>
 </p>
   <!-- End::Skills Gif -->
 <!-- End::Skills -->
