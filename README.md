@@ -19,24 +19,32 @@
 <!-- End::Header -->
 
 <!-- Begin::About Me -->
-  <!-- Begin::Desc -->
   ## 🚀 About Me
   <p>
-    My Name is Seyed Mohammad Yusuf Mirshahvaladi <img src="https://github.com/smystm/smystm/blob/main/hithere.gif?raw=true" width="20px" />
-    , I'm a  FrontEnd developer <img src="https://github.com/smystm/smystm/blob/main/estiker%20(2).gif?raw=true" width="25px" />...
+    Hi, I’m <b>Seyed Mohammad Yusuf Mirshahvaladi</b> <img src="https://github.com/smystm/smystm/blob/main/hithere.gif?raw=true" width="20px" /> — 
+    a <b>Frontend Developer</b> <img src="https://github.com/smystm/smystm/blob/main/estiker%20(2).gif?raw=true" width="25px" /> 
+    passionate about creating modern, responsive, and user-focused web applications.
   </p>
   <p> 
-    I living in qom From Iran <img src="https://github.com/smystm/smystm/blob/main/estiker%20(3).gif?raw=true" width="25px" /> 
-    and I'm 18 years old.I love programming and now i acting in web designing.
+    🌍 Based in Qom, Iran <img src="https://github.com/smystm/smystm/blob/main/estiker%20(3).gif?raw=true" width="25px" />  
+    🚀 Previously contributed in startups and companies as a frontend developer (remote & on-site)  
+    🌱 Currently improving my skills in advanced React/Next.js ecosystem and building portfolio projects
   </p>
   <!-- End::Desc -->
   
   <!-- Begin::List -->
-  - 🔭 I’m currently working on HTML & CSS & Bootstrap & Tailwind & JavaScript.
-  - ⚡ I am familiar with the Vue Js & Python, but I have not done a professional project with it.
-  - ✨ also I can working with Wordpress & Elementor ... But I prefer programming to Wordpress.
-  - 🔥 From my experience ,it can be mentioned that I have taught front-end(HTML,CSS,Js) in Ameed Institute
-  - 🌱 I’m currently learning React JS
+  - 🎯 Focused on **React.js / Next.js** with **TypeScript** and **TailwindCSS**
+  - ⚡ Experienced with **JavaScript (ES6+), HTML, CSS, Bootstrap**
+  - 🛠 Familiar with **Node.js, PostgreSQL, Supabase, Docker** (basic to intermediate)
+  - 📦 Worked with **WordPress & Elementor**, but prefer coding custom solutions
+  - 💻 Experienced in **Git/GitHub**, deployment (**Vercel, GitHub Pages**)
+  <!-- End::List -->
+
+  ## 🔥 Experience & Highlights
+  <!-- Begin::List -->
+  - 🏢 Worked as **frontend developer** in companies & startups (internship, employment, and freelance projects)
+  - 📚 Taught **HTML, CSS, JS** at Ameed Institute
+  - ⚡ Building and migrating older projects into **React/Next.js** to strengthen portfolio
   <!-- End::List -->
 <!-- End::About Me -->
 <!-- Begin::Skills -->
