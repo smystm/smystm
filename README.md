@@ -52,26 +52,36 @@
   ## <img src="https://github.com/smystm/smystm/blob/main/skills.png?raw=true" width="28px" align="center"/> Tech Stack
   <!-- End::Title -->
   <!-- Begin::Skills Gif -->
-   ***🐦 My Skills :***
-   <p align="center">
-    <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/vs.gif?raw=true" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/pycharm.gif?raw=true" width="50px" align="center"/>
-   </p>
-   
-   ***🐦 Learning Skills :***
-   <p align="center">
-    <img src="https://github.com/smystm/smystm/blob/main/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50px" align="center"/>
-    <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
-   </p>
+   ***🚀 Core Skills :***
+<p align="center">
+  <img src="https://github.com/smystm/smystm/blob/main/html.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/css.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/bootstrap.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/icons8-tailwind-css-100.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/js.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/typescript-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/react.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/nextjs-icon.png" width="50px" align="center"/>
+</p>
+
+***⚡ Proficient Tools :***
+<p align="center">
+  <img src="https://github.com/smystm/smystm/blob/main/git.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/github.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/vercel-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/wordpress-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/elementor-icon.png" width="50px" align="center"/>
+</p>
+
+***🌱 Familiar With :***
+<p align="center">
+  <img src="https://github.com/smystm/smystm/blob/main/nodejs-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/postgresql-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/supabase-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/docker-icon.png" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/python.gif?raw=true" width="50px" align="center"/>
+  <img src="https://github.com/smystm/smystm/blob/main/vue.gif?raw=true" width="50px" align="center"/>
+</p>
   <!-- End::Skills Gif -->
 <!-- End::Skills -->
 
