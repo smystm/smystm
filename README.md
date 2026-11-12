@@ -122,14 +122,3 @@ Hi, I'm **Yusef Mirshahvaladi**, a Web Developer focused on building modern, sca
 - Developer Tools & Automation
 - Software Architecture
 
----
-
-## 🛠️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smystm&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smystm&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
